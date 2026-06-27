@@ -1,7 +1,7 @@
 # Bae Jinwoo
 
 AI Researcher & Engineer  
-I translate unfamiliar domains into data, experiments, and working systems.
+Medical AI, Machine Unlearning, Kaggle competitions, and applied AI systems.
 
 [Portfolio](https://bgw4399.github.io/) · [CV](https://bgw4399.github.io/assets/Bae_Jinwoo_CV.pdf) · [Kaggle](https://www.kaggle.com/bgw4399) · [Email](mailto:bgw4399@gmail.com)
 
@@ -45,5 +45,3 @@ I translate unfamiliar domains into data, experiments, and working systems.
 ## Tech Stack
 
 `Python` · `PyTorch` · `scikit-learn` · `XGBoost` · `pandas` · `FastAPI` · `SQLite` · `JavaScript` · `HTML/CSS` · `OMOP CDM` · `DXF/CAD` · `MCP/Agents`
-
-> I care less about pretending every domain is already familiar, and more about learning it deeply enough to build something useful and verifiable.
