@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="216" viewBox="0 0 960 216" role="img" aria-labelledby="title desc">
+  <title id="title">Bae Jinwoo — AI Research &amp; Engineering</title>
+  <desc id="desc">Medical AI, machine learning experiments, and data applications.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#153e4a"/></linearGradient>
+  </defs>
+  <rect width="960" height="216" rx="20" fill="url(#bg)"/>
+  <path d="M665 44h98v60h111v66H743v-33H665z" fill="none" stroke="#285461" stroke-width="2"/>
+  <circle cx="665" cy="44" r="6" fill="#5eead4"/><circle cx="874" cy="104" r="6" fill="#5eead4"/>
+  <circle cx="743" cy="170" r="6" fill="#5eead4"/>
+  <rect x="42" y="38" width="4" height="136" rx="2" fill="#5eead4"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="66" y="65" font-size="13" font-weight="600" letter-spacing="3" fill="#5eead4">AI RESEARCH &amp; ENGINEERING</text>
+    <text x="63" y="123" font-size="46" font-weight="700" fill="#f8fafc">Bae Jinwoo</text>
+    <text x="66" y="160" font-size="17" fill="#cbd5e1">Medical AI · Machine Learning · Data Applications</text>
+    <text x="805" y="191" font-size="13" letter-spacing="2" fill="#8ab5bc">bgw4399</text>
+  </g>
+</svg>
