@@ -29,7 +29,7 @@
 
 ### Research & Project Notes
 
-Machine Unlearning, CAD 경로 설계, 운영 대시보드, Kaggle 실험에 관한 설명은 **[프로젝트 노트](docs/projects/README.md)**에 모았습니다.
+Machine Unlearning, CAD 경로 설계, 운영 대시보드, Kaggle 실험에 관한 설명은 [프로젝트 노트](docs/projects/README.md)에 모았습니다.
 노트에는 공개 범위와 관련 코드 위치를 함께 표시했습니다.
 
 <sub>팀 프로젝트의 기여와 사용한 오픈소스는 각 저장소의 설명을 참고해 주세요.</sub>

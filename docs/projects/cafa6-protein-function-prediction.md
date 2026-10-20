@@ -4,7 +4,7 @@
 
 # CAFA6 Protein Function Prediction
 
-CAFA6 단백질 기능 예측의 실제 구현은 **[kaggle-cafa6](https://github.com/bgw4399/kaggle-cafa6)**에 있습니다.
+CAFA6 단백질 기능 예측의 실제 구현은 [kaggle-cafa6](https://github.com/bgw4399/kaggle-cafa6)에 있습니다.
 
 데이터 준비, 학습, 검증, stacking 코드는 해당 저장소의 `scripts/`에 정리되어 있습니다. 설치와 입력 데이터 배치는 [코드 저장소 README](https://github.com/bgw4399/kaggle-cafa6#readme)를 참고하세요.
 
